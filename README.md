@@ -1,10 +1,6 @@
 # Techdev - Chat Application 
 techdev is chat application build with the power of MERN Stack.
 
-![login page](./images/techdev_login.png)
-
-![home page](./images/techdev.png)
-
 ## Installation Guide
 
 ### Requirements
